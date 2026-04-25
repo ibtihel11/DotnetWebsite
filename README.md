@@ -2,6 +2,8 @@
 
 This is a full-stack **ASP.NET Core MVC E-Commerce Web Application** that supports role-based access control, product management, shopping cart functionality, and order processing.
 
+<img width="1919" height="974" alt="image" src="https://github.com/user-attachments/assets/fe2655f9-c647-4e6c-9fc1-c328616164cd" />
+
 ---
 
 ## Features
